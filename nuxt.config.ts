@@ -10,6 +10,7 @@ export default defineNuxtConfig({
       {
         families: {
           'Unica+One': true,
+          Karla: true,
         },
       },
     ],

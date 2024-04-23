@@ -78,7 +78,7 @@
           <hr class="w-5 h-1 border-0 bg-primary-500 mr-2" />
           OPIS
         </div>
-        <p class="my-2">
+        <p class="my-2 descriptionWrapper">
           Wyjątkowa okazja dla miłośników klasycznych pojazdów do uczestnictwa w
           emocjonujących wyścigach na torze Silverstone. Wydarzenie obejmuje
           pokazy samochodów klasycznych, konkursy, stoiska z akcesoriami oraz
@@ -101,5 +101,8 @@
 <style scoped>
 .wrapperFont {
   font-family: Unica One;
+}
+.descriptionWrapper {
+  font-family: Karla;
 }
 </style>
